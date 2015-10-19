@@ -1,3 +1,5 @@
+#2 person Tourny Random generator
+
 import random
 
 
