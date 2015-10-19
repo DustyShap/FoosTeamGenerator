@@ -1,4 +1,4 @@
-#2 person Tourny Random generator
+#Two person Tourny Random generator
 
 import random
 
